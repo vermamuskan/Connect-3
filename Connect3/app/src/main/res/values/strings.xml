@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
